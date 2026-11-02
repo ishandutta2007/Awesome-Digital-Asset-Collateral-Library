@@ -130,7 +130,7 @@
 
     <!-- Tagline & Highlights -->
     <text x="600" y="235" text-anchor="middle" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="400">
-      Verified SaaS Solutions &amp; Sovereign Open-Source Projects &bull; Market Dynamics &bull; Transparent Pricing
+      Verified SaaS Solutions &amp; Sovereign Open-Source Projects &#8226; Market Dynamics &#8226; Transparent Pricing
     </text>
 
     <!-- Feature Attribute Badges Bottom Row -->
@@ -154,7 +154,7 @@
 
     <!-- Bottom Verification Line -->
     <text x="600" y="375" text-anchor="middle" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="500">
-      MAIN-BRANCH VERIFIED &bull; COMMUNITY CURATED &bull; CONTINUOUSLY UPDATED
+      MAIN-BRANCH VERIFIED &#8226; COMMUNITY CURATED &#8226; CONTINUOUSLY UPDATED
     </text>
   </g>
 </svg>
