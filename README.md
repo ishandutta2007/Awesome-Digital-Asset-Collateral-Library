@@ -32,129 +32,49 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Digital Asset Management (DAM) market is estimated at **$5.6B – $6.5B in 2025–2026** and projected to reach **$15B–$19B+ by the early 2030s** at a compound annual growth rate (CAGR) of ~14%–16%.
+The sector is **moderately to highly fragmented** rather than winner-take-all, characterized by enterprise Customer Experience/CMS suites (Adobe, OpenText), dedicated mid-market brand DAM platforms (Bynder, Canto), and sales enablement content players (Highspot, Seismic) actively competing through AI metadata automation, headless architecture, and niche consolidation.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **Bynder**
-
-  **Enterprise digital asset management** with brand guidelines and creative workflows. **Pricing**: Quote-only; enterprise contracts. **Free tier**: None. **Best for**: large enterprises needing scalable DAM with governance and integrations—**trade-off**: enterprise pricing; implementation commitment.
-
-
-
-- **Brandfolder** (Smartsheet)
-
-  **Digital asset management and brand management** with visual search and brand portals. **Pricing**: Quote-only. **Free tier**: Trial available. **Best for**: marketing teams wanting an intuitive DAM with strong visual search.
-
-
-
-- **Canto**
-
-  **DAM platform** with AI-powered tagging and brand portals. **Pricing**: Quote-only; tiered by users and storage. **Free tier**: Trial available. **Best for**: mid-market teams wanting AI-assisted asset organization.
-
-
-
-- **MediaValet**
-
-  **Cloud-native DAM** with AI and workflow automation. **Pricing**: Quote-only. **Free tier**: None. **Best for**: enterprises wanting a modern DAM with strong API and integrations.
-
-
-
-- **Highspot**
-
-  **Sales enablement platform** with content management and analytics. **Pricing**: Quote-only; per-user. **Free tier**: None. **Best for**: sales teams wanting to know which collateral actually drives deals—**trade-off**: sales-enablement focus, not general DAM.
-
-
-
-- **Seismic**
-
-  **Sales enablement and content management** platform. **Pricing**: Quote-only. **Free tier**: None. **Best for**: enterprises needing governed sales content at scale.
-
-
-
-- **Showpad**
-
-  **Sales enablement** with content and training. **Pricing**: Quote-only. **Free tier**: None. **Best for**: sales teams wanting content plus coaching in one platform.
-
-
-
-- **Paperflite**
-
-  **Content management for sales and marketing** with analytics. **Pricing**: Quote-only. **Free tier**: Trial available. **Best for**: SMBs wanting collateral tracking without enterprise complexity.
-
-
-
-- **ClearSlide**
-
-  **Sales engagement and content** platform. **Pricing**: Quote-only. **Free tier**: None. **Best for**: sales teams wanting presentation and content tracking.
-
-
-
-- **HubSpot Content Library**
-
-  **Asset management within HubSpot** ecosystem. **Pricing**: Included with HubSpot tiers. **Free tier**: Limited. **Best for**: HubSpot users wanting basic asset organization within their CRM.
-
-
+| Platform | Scale (Valuation / Revenue) | Starting Price | Free Tier / Trial Limits | Best For / Focus |
+| :--- | :--- | :--- | :--- | :--- |
+| **HubSpot Content Library** | **$13.9B Market Cap** ($2.3B+ ARR) | Free forever ($0); paid tiers start at **$15/user/month** (Starter) | **Free forever plan** (includes up to 20 MB file uploads & basic CRM files); **14-day free trial** for Professional/Enterprise tiers | HubSpot CRM users wanting native collateral management directly in CRM records |
+| **Highspot** | **$3.5B Valuation** (~$213M–$450M ARR) | Custom enterprise quote; entry plans start around **$50/user/month** (~$60,000/yr typical contract) | **No automated public trial**; 30-day proof-of-concept (POC) sandbox granted through sales-led demo | Enterprise revenue and sales teams wanting sales collateral analytics and deal attribution |
+| **Seismic** | **$3.0B Valuation** (~$400M ARR) | Custom enterprise quote; entry deployments start around **$65/user/month** (~$32,000/yr typical contract) | **No public free plan**; 14- to 30-day piloted sandbox trial arranged upon sales consultation | Large enterprises needing governed sales enablement content automation and buyer engagement |
+| **Showpad** | **$1.0B Valuation** (~$145M ARR) | Custom quote; entry packages start around **$35/user/month** (billed annually) | **No self-serve free trial**; 14-day customized trial/POC available upon request with sales team | B2B sales teams wanting sales collateral sharing and buyer coaching in a unified eOS |
+| **Bynder** | **$1.1B Valuation** ($100M+ ARR) | Custom quote; smaller team packages start around **$450/month** (~$5,400/yr) | **No public self-serve trial**; guided sandbox POC (typically 7–14 days) available via sales request | Global brands and enterprises needing governed brand portals, digital asset workflows, and rights control |
+| **Brandfolder** (Smartsheet) | **$155M Acquisition** (~$70M+ ARR est.) | Custom quote; starting packages start around **$500/month** (~$6,000/yr) | **No public self-serve trial**; 14-day guided test sandbox provided upon sales evaluation | Marketing & creative teams needing visual-first brand asset management and curated brand portals |
+| **MediaValet** | **$80M Acquisition** (~$16M ARR) | Custom quote; entry storage-based tiers start at **$3,600/year** ($300/month) | **No automated public trial**; free guided sandbox trial environment available upon sales consultation | Cloud-native DAM buyers wanting unlimited user seats with storage/render-based pricing |
+| **Canto** | **~$50M ARR** (Private Equity backed) | Custom quote; base team deployments start around **$25,000/year** (~$2,083/month) | **7-day free trial** available via sales request form; full features during trial | Mid-market marketing teams seeking AI-assisted asset tagging, brand portals, and media workflows |
+| **Paperflite** | **~$3M–$5M ARR** (Seed-backed) | **$30/user/month** (Starter / "I Got Wings" tier, min. 5 users) | **14-day free trial** (full access to content hubs, analytics, and tracking; no credit card required) | SMB and growth teams needing fast sales collateral distribution with document tracking |
+| **ClearSlide** (Bigtincan) | **Subsidiary of Bigtincan** (~$60M Bigtincan ARR) | Custom quote; entry tiers start at **$35/user/month** (billed annually) | **No automated public free trial**; custom demo and evaluation sandbox via sales contact | Sales teams prioritizing live presentation engagement, buyer screen tracking, and collateral follow-ups |
 
 ## Open-Source GitHub Projects
 
-
-
-- **Artbucket**
-
-  **Open-source, self-hosted DAM and brand manager** (open source) — **the most architecturally complete open-source DAM** found in this research, designed for both humans and AI agents . **Features**: **Catalog as governance layer**—every brand, rule, guideline page, collection, asset, and portal gets an address with lineage, access grants, and audit history. **"Your brand is an API"**—search, check use rights, and get renditions via CLI (`npx artbucket search`, `check`, `url`), MCP server for AI agents, and REST API with OpenAPI spec. **Use checking**—ask whether an asset may run on a channel in a territory, and it returns a verdict with the replacement asset. **Portals** for brand pages. Self-hosted on Postgres and S3-compatible storage; no telemetry, nothing held back . **Tech stack**: Node 22+, pnpm, Docker, Postgres, S3. **Deploy**: Self-hosted (`docker compose up -d`) or Artbucket Cloud. **Trade-off**: **DAM and governance, not sales content analytics**—no deal attribution or sales engagement features. **Best for**: teams wanting a self-hosted brand source of truth that AI agents can query directly—especially those building agent workflows that need to know which logo is approved and whether a photo is cleared for a channel.
-
-
-
-- **UnoPim DAM**
-
-  **Open-source digital asset management extension for UnoPim PIM** (open source) — **the most modern open-source DAM UI** with single-page navigation and rich asset management . **Features**: **Single-page experience**—no page reloads, instant navigation between folders, assets, and edit screens. **Directory & asset management**—folder tree with search, breadcrumbs, per-folder asset counts. **Explorer view**—file-manager UI with tabs, grid/list views, bookmarks, clipboard copy-paste, bulk move/copy. **Uploading**—drag-and-drop, whole-folder upload, background uploads with pause/resume/cancel/retry. **Previews**—zoomable images, video/audio players, in-browser PDF viewing. **Image editor**—crop, adjust, rotate, filter, AI-generated backgrounds. **Shared links** with expiry and revocation. **Directory permissions** scoped to folders. **Tags** with recursive mass-tagging. **REST API** for assets, directories, tags, properties, comments, shares . **Tech stack**: PHP 8.4+, UnoPim 3.0.x. **Deploy**: Self-hosted (UnoPim installation). **Trade-off**: **Requires UnoPim PIM**—not a standalone DAM; asset management is an extension within a product information management system . **Best for**: organizations already using UnoPim for PIM wanting integrated DAM without a separate platform.
-
-
-
-- **ResourceSpace**
-
-  **Open-source DAM software** (open source, free self-hosted edition) — **the established veteran open-source DAM**, used by organizations worldwide . **Features**: **Central asset hub** for team sharing; **fast and flexible search** with advanced tagging and categorization; **privacy settings** for securing assets; **free installation** available; extensive configuration options, plugins, and admin settings . **Tech stack**: PHP, MySQL. **Deploy**: Self-hosted (free) or managed hosting. **Trade-off**: **Interface feels dated** compared to Artbucket or UnoPim; free usage historically limited (10 GB in older versions—verify current limits) . **Best for**: organizations wanting a proven, configurable open-source DAM with a free self-hosted path—especially those with existing PHP infrastructure.
-
-
-
-- **Brand Assets Ecosystem**
-
-  **Multi-interface brand asset management system** (open source) — **the most MCP-native open-source brand asset tool**, designed for AI agent access . **Features**: **Web GUI** for asset browsing, search, and download; **MCP server** for AI agent integration (local and cloud endpoints); **shared SDK** for future Slack integration; **enhanced metadata** generation and improved search capabilities (in development) . **Tech stack**: Next.js (web GUI), Python (MCP server), TypeScript (SDK). **Deploy**: Self-hosted (web GUI on port 3002, MCP server local). **Trade-off**: **Early-stage and in development**—PDF previews and Slack integration are planned, not shipped; no production validation . **Best for**: teams wanting a lightweight brand asset browser with MCP access for AI agents—willing to accept early-stage maturity.
-
-
-
-- **Jamā (jama-CERTIC)**
-
-  **Django-based media repository** (open source, CERTIC Université de Caen Normandie) — **the most feature-rich open-source media archive** for cultural and research institutions . **Features**: **Projects, collections, resources, files, metadata** with access control; **JSON-RPC API and web UI**; **chunked file uploads** with hash-based storage; **IIIF tiled image generation**; **HLS generation for videos**; **OCR and ExifTool metadata extraction**; **ARK identifier integration**; **project snapshot export/restore** . **Tech stack**: Python 3.13, Django 6, PostgreSQL/SQLite. **Deploy**: Self-hosted (`pip install jama-CERTIC`). **Trade-off**: **Research/cultural archive focus**—not marketing collateral or sales enablement; requires external tools (ImageMagick, FFmpeg, Tesseract) . **Best for**: cultural institutions, universities, and archives needing IIIF and OCR capabilities—not marketing teams.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **agent-native Assets** — Open-source agent-native DAM with brand-consistent image/video generation (open source). Libraries, folders, brand kits, generation presets, logo compositing, audit logs for every generation run; reusable across apps via A2A and MCP . **Note**: **Generation-focused DAM**—newer project with limited validation. **Best for**: teams wanting AI-generated on-brand assets with audit trails .
-
-- **InfoHub Marketing Materials** — Laravel-based marketing materials management (open source, ~2 stars). User/admin panels, file management, search, statistics . **Note**: **Minimal project**—not production-hardened. **Best for**: developers wanting a simple reference for marketing asset management.
-
-- **AtroDAM** — Open-source DAM from AtroCore ecosystem (PHP). **Note**: Listed on GitHub topics but limited documentation in search results. **Best for**: exploration within AtroCore ecosystem.
-
-
-
-**Frameworks for building custom systems**: Combine **Artbucket** for governed brand assets with **UnoPim DAM** for PIM-integrated asset management and **ResourceSpace** as a fallback for proven self-hosted DAM—creating a layered open-source asset stack. **None of these match Bynder's enterprise workflows or Highspot's sales analytics**, but for core asset library functionality, the options are production-capable.
-
-
+| Project | Stars | Tech Stack | Architecture / Focus |
+| :--- | :--- | :--- | :--- |
+| **[UnoPim](https://github.com/unopim/unopim)** | [![GitHub stars](https://img.shields.io/github/stars/unopim/unopim?style=social&color=white)](https://github.com/unopim/unopim/stargazers) | PHP 8.4+, Laravel, Vue | Open-source PIM and Digital Asset Management (DAM) platform built to manage and scale product data and digital assets beyond 10M products. Free forever. |
+| **[agent-native](https://github.com/BuilderIO/agent-native)** | [![GitHub stars](https://img.shields.io/github/stars/BuilderIO/agent-native?style=social&color=white)](https://github.com/BuilderIO/agent-native/stargazers) | TypeScript, Node.js | Agent-native asset infrastructure and MCP server with brand kits, generation presets, logo compositing, and audit logs for AI-agent asset pipelines. |
+| **[Pimcore](https://github.com/pimcore/pimcore)** | [![GitHub stars](https://img.shields.io/github/stars/pimcore/pimcore?style=social&color=white)](https://github.com/pimcore/pimcore/stargazers) | PHP, Symfony | Enterprise-grade open core data & experience management platform combining modular DAM, PIM, MDM, CDP, and headless content delivery. |
+| **[DSpace](https://github.com/DSpace/DSpace)** | [![GitHub stars](https://img.shields.io/github/stars/DSpace/DSpace?style=social&color=white)](https://github.com/DSpace/DSpace/stargazers) | Java, Angular | Turnkey institutional digital asset repository and DAM platform widely adopted by research, cultural, and enterprise archiving organizations. |
+| **[Daminik](https://github.com/daminikhq/daminik)** | [![GitHub stars](https://img.shields.io/github/stars/daminikhq/daminik?style=social&color=white)](https://github.com/daminikhq/daminik/stargazers) | TypeScript, Node.js | Lightweight and scalable Digital Asset Manager with a built-in CDN acting as an instant single source of truth for design and marketing assets. |
+| **[Phraseanet](https://github.com/alchemy-fr/Phraseanet)** | [![GitHub stars](https://img.shields.io/github/stars/alchemy-fr/Phraseanet?style=social&color=white)](https://github.com/alchemy-fr/Phraseanet/stargazers) | PHP, Elasticsearch | Established open-source DAM web application designed to capture, index, organize, and publish large collections of high-resolution digital media. |
+| **[AtroCore](https://github.com/atrocore/atrocore)** | [![GitHub stars](https://img.shields.io/github/stars/atrocore/atrocore?style=social&color=white)](https://github.com/atrocore/atrocore/stargazers) | PHP, Backbone.js | Enterprise-ready business application platform providing modular data engines for PIM, Master Data Management (MDM), and digital asset workflows. |
+| **[AtroDAM](https://github.com/atrocore/atrodam)** | [![GitHub stars](https://img.shields.io/github/stars/atrocore/atrodam?style=social&color=white)](https://github.com/atrocore/atrodam/stargazers) | PHP, AtroCore | Modern open-source DAM system module within the AtroCore ecosystem for centralized digital asset handling, previews, and automated rendition pipelines. |
+| **[ResourceSpace](https://github.com/resourcespace/resourcespace)** | [![GitHub stars](https://img.shields.io/github/stars/resourcespace/resourcespace?style=social&color=white)](https://github.com/resourcespace/resourcespace/stargazers) | PHP, MySQL | Established veteran open-source DAM software for organizing, archiving, and distributing brand assets, photos, video, and documents. |
+| **[Artbucket](https://github.com/pwnera/artbucket)** | [![GitHub stars](https://img.shields.io/github/stars/pwnera/artbucket?style=social&color=white)](https://github.com/pwnera/artbucket/stargazers) | TypeScript, Node.js, Postgres | Modern self-hosted DAM and brand manager: assets, brand guidelines as data, and brand portals for both teams and AI agents via MCP, REST, and CLI. |
+| **[UnoPim DAM Extension](https://github.com/unopim/unopim-digital-asset-management)** | [![GitHub stars](https://img.shields.io/github/stars/unopim/unopim-digital-asset-management?style=social&color=white)](https://github.com/unopim/unopim-digital-asset-management/stargazers) | PHP, Laravel | Dedicated DAM package for UnoPim providing single-page folder trees, drag-and-drop batch upload, image manipulation, and metadata tagging. |
+| **[InfoHub Marketing Materials](https://github.com/SaintAngeLs/infohub_marketing_materials_management)** | [![GitHub stars](https://img.shields.io/github/stars/SaintAngeLs/infohub_marketing_materials_management?style=social&color=white)](https://github.com/SaintAngeLs/infohub_marketing_materials_management/stargazers) | PHP, Laravel | Laravel-based marketing collateral manager featuring role-based administration, asset search, file repository, and access statistics. |
+| **[Brand Assets Ecosystem](https://github.com/b-ciq/brand-assets-ecosystem)** | [![GitHub stars](https://img.shields.io/github/stars/b-ciq/brand-assets-ecosystem?style=social&color=white)](https://github.com/b-ciq/brand-assets-ecosystem/stargazers) | Next.js, Python, TypeScript | Multi-interface brand asset management system featuring a web GUI, MCP server for AI agents, and unified SDK integration. |
 
 ## How to Contribute
 
